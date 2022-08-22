@@ -1,0 +1,15 @@
+
+
+<svg  viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%"  id="blobSvg">
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color: rgb(255, 81, 47);"></stop>
+          <stop offset="50%" style="stop-color: rgb(221, 36, 118);"></stop>
+          <stop offset="100%" style="stop-color: rgb(255, 81, 47);"></stop>
+        </linearGradient>
+      </defs>
+ <rect x="0" y="0" rx="50" ry="50" width="150%" height="200%" fill="url(#gradient)"></rect>
+ 
+Sorry, your browser does not support inline SVG.
+</svg>
+
